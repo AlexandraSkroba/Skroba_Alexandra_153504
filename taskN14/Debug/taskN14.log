@@ -1,0 +1,8 @@
+﻿  ex_14.cpp
+D:\С++\Laba4\taskN14\ex_14.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\С++\Laba4\taskN14\ex_14.cpp(37,7): error C2374: flag: переопределение; множественная инициализация
+D:\С++\Laba4\taskN14\ex_14.cpp(22): message : см. объявление "flag"
+D:\С++\Laba4\taskN14\ex_14.cpp(56,23): warning C4244: аргумент: преобразование "long double" в "size_t", возможна потеря данных
+D:\С++\Laba4\taskN14\ex_14.cpp(60,26): warning C4244: аргумент: преобразование "long double" в "size_t", возможна потеря данных
+D:\С++\Laba4\taskN14\ex_14.cpp(78,7): error C2374: flag: переопределение; множественная инициализация
+D:\С++\Laba4\taskN14\ex_14.cpp(22): message : см. объявление "flag"
