@@ -1,0 +1,4 @@
+﻿  ex_14.cpp
+D:\С++\Laba4\task14\ex_14.cpp(34,35): warning C4244: аргумент: преобразование "__int64" в "size_t", возможна потеря данных
+D:\С++\Laba4\task14\ex_14.cpp(36,34): warning C4244: аргумент: преобразование "__int64" в "size_t", возможна потеря данных
+  task14.vcxproj -> D:\С++\Laba4\Debug\task14.exe
