@@ -1,0 +1,3 @@
+﻿  ex_3.cpp
+D:\С++\Laba8\task3\ex_3.cpp(23,34): warning C4101: answer: неиспользованная локальная переменная
+  task3.vcxproj -> D:\С++\Laba8\Debug\task3.exe

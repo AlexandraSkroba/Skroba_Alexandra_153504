@@ -1,0 +1,6 @@
+﻿  ex_2.cpp
+D:\С++\Laba8\task2\ex_2.cpp(25,11): warning C4244: return: преобразование "float" в "short", возможна потеря данных
+D:\С++\Laba8\task2\ex_2.cpp(37,37): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba8\task2\ex_2.cpp(191,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba8\task2\ex_2.cpp(298,55): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task2.vcxproj -> D:\С++\Laba8\Debug\task2.exe

@@ -1,0 +1,4 @@
+﻿  ex_1.cpp
+D:\С++\Laba8\task1\ex_1.cpp(207,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba8\task1\ex_1.cpp(218,45): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task1.vcxproj -> D:\С++\Laba8\Debug\task1.exe
