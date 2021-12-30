@@ -1,0 +1,4 @@
+﻿  add_1.cpp
+D:\С++\Laba5\Laba5\add_1\add_1.cpp(19,20): warning C4244: return: преобразование "long double" в "long", возможна потеря данных
+D:\С++\Laba5\Laba5\add_1\add_1.cpp(34,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "long"
+  add_1.vcxproj -> D:\С++\Laba5\Laba5\Debug\add_1.exe

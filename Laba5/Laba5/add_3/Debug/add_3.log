@@ -1,0 +1,6 @@
+﻿  add_3.cpp
+D:\С++\Laba5\Laba5\add_3\add_3.cpp(22,20): warning C4244: return: преобразование "long double" в "long", возможна потеря данных
+D:\С++\Laba5\Laba5\add_3\add_3.cpp(30,18): warning C4244: return: преобразование "__int64" в "long", возможна потеря данных
+D:\С++\Laba5\Laba5\add_3\add_3.cpp(33,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "long"
+D:\С++\Laba5\Laba5\add_3\add_3.cpp(41,72): warning C4244: аргумент: преобразование "__int64" в "long", возможна потеря данных
+  add_3.vcxproj -> D:\С++\Laba5\Laba5\Debug\add_3.exe
