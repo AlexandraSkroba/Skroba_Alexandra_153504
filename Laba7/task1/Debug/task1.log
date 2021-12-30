@@ -1,0 +1,4 @@
+﻿  ex_1.cpp
+D:\С++\Laba7\task1\ex_1.cpp(38,22): warning C4244: +=: преобразование "long double" в "int", возможна потеря данных
+D:\С++\Laba7\task1\ex_1.cpp(31,20): warning C4101: add: неиспользованная локальная переменная
+  task1.vcxproj -> D:\С++\Laba7\Debug\task1.exe

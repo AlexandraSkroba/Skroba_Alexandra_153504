@@ -1,0 +1,4 @@
+﻿  ex_4.cpp
+D:\С++\Laba7\task4\ex_4.cpp(279,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba7\task4\ex_4.cpp(311,22): warning C4018: <: несоответствие типов со знаком и без знака
+  task4.vcxproj -> D:\С++\Laba7\Debug\task4.exe

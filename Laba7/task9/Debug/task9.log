@@ -1,0 +1,13 @@
+﻿  ex_9.cpp
+D:\С++\Laba7\static_libs\static_libs.h(16,12): warning C4244: +=: преобразование "long double" в "int", возможна потеря данных
+D:\С++\Laba7\static_libs\static_libs.h(9,17): warning C4101: add: неиспользованная локальная переменная
+D:\С++\Laba7\static_libs\static_libs.h(46,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba7\static_libs\static_libs.h(50,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba7\static_libs\static_libs.h(52,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba7\static_libs\static_libs.h(47,22): warning C4101: i: неиспользованная локальная переменная
+D:\С++\Laba7\static_libs\static_libs.h(162,17): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+D:\С++\Laba7\static_libs\static_libs.h(200,43): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba7\static_libs\static_libs.h(206,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba7\static_libs\static_libs.h(224,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba7\static_libs\static_libs.h(244,43): warning C4018: <: несоответствие типов со знаком и без знака
+  task9.vcxproj -> D:\С++\Laba7\Debug\task9.exe
