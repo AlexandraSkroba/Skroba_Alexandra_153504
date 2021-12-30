@@ -1,0 +1,10 @@
+﻿  ex_8.cpp
+D:\С++\Laba6\static_libs\ststic_libs.h(6,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(9,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(25,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba6\static_libs\ststic_libs.h(66,32): warning C4552: "-": результат выражения не используется
+D:\С++\Laba6\static_libs\ststic_libs.h(91,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(167,12): warning C4244: return: преобразование "long double" в "int", возможна потеря данных
+D:\С++\Laba6\static_libs\ststic_libs.h(89,10): warning C4101: minus: неиспользованная локальная переменная
+D:\С++\Laba6\task8\ex_8.cpp(16,3): warning C4552: "-": результат выражения не используется
+  task8.vcxproj -> D:\С++\Laba6\Debug\task8.exe

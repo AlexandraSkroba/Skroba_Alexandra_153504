@@ -1,0 +1,41 @@
+﻿  ex_6.cpp
+D:\С++\Laba6\static_libs\ststic_libs.h(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(10,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(26,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba6\static_libs\ststic_libs.h(67,32): warning C4552: "-": результат выражения не используется
+D:\С++\Laba6\static_libs\ststic_libs.h(91,5): error C2065: map: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(91,9): error C2062: тип "char" не требуется
+D:\С++\Laba6\static_libs\ststic_libs.h(93,9): error C2065: charCount: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(96,10): error C2065: map: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(96,14): error C2062: тип "char" не требуется
+D:\С++\Laba6\static_libs\ststic_libs.h(96,26): error C2039: "iterator": не является членом "`global namespace'".
+D:\С++\Laba6\static_libs\ststic_libs.h(96,59): error C2065: it: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(96,65): error C2065: charCount: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(96,84): error C2065: it: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(96,86): error C2059: синтаксическая ошибка: )
+D:\С++\Laba6\static_libs\ststic_libs.h(97,19): error C2065: it: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(97,29): error C2059: синтаксическая ошибка: ;
+D:\С++\Laba6\static_libs\ststic_libs.h(102,5): error C2059: синтаксическая ошибка: for
+D:\С++\Laba6\static_libs\ststic_libs.h(102,5): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+D:\С++\Laba6\static_libs\ststic_libs.h(102,23): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+D:\С++\Laba6\static_libs\ststic_libs.h(102,23): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\С++\Laba6\static_libs\ststic_libs.h(102,34): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+D:\С++\Laba6\static_libs\ststic_libs.h(102,34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\С++\Laba6\static_libs\ststic_libs.h(102,33): error C2086: int i: переопределение
+D:\С++\Laba6\static_libs\ststic_libs.h(102): message : см. объявление "i"
+D:\С++\Laba6\static_libs\ststic_libs.h(102,36): error C2059: синтаксическая ошибка: )
+D:\С++\Laba6\static_libs\ststic_libs.h(102,38): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\С++\Laba6\static_libs\ststic_libs.h(102,38): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+D:\С++\Laba6\static_libs\ststic_libs.h(107,14): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\С++\Laba6\static_libs\ststic_libs.h(107,5): error C2365: free: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(89): message : см. объявление "free"
+D:\С++\Laba6\static_libs\ststic_libs.h(107,10): error C2065: prod: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(110,16): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\С++\Laba6\static_libs\ststic_libs.h(110,5): error C2086: int anagramm: переопределение
+D:\С++\Laba6\static_libs\ststic_libs.h(109): message : см. объявление "anagramm"
+D:\С++\Laba6\static_libs\ststic_libs.h(110,16): error C2065: n: необъявленный идентификатор
+D:\С++\Laba6\static_libs\ststic_libs.h(112,5): error C2059: синтаксическая ошибка: return
+D:\С++\Laba6\static_libs\ststic_libs.h(113,1): error C2059: синтаксическая ошибка: }
+D:\С++\Laba6\static_libs\ststic_libs.h(113,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+D:\С++\Laba6\static_libs\ststic_libs.h(116,28): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\С++\Laba6\static_libs\ststic_libs.h(116,28): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)

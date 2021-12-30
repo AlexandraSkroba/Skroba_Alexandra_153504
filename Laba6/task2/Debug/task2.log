@@ -1,0 +1,3 @@
+﻿  ex_2.cpp
+D:\С++\Laba6\task2\ex_2.cpp(21,44): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  task2.vcxproj -> D:\С++\Laba6\Debug\task2.exe

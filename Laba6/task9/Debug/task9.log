@@ -1,0 +1,13 @@
+﻿  ex_9.cpp
+D:\С++\Laba6\static_libs\ststic_libs.h(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(17,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(33,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba6\static_libs\ststic_libs.h(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(163,18): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\task9\ex_9.cpp(20,10): warning C4101: minus: неиспользованная локальная переменная
+D:\С++\Laba6\task9\ex_9.cpp(19,9): warning C4101: fraction: неиспользованная локальная переменная
+D:\С++\Laba6\task9\ex_9.cpp(18,17): warning C4101: buff: неиспользованная локальная переменная
+D:\С++\Laba6\task9\ex_9.cpp(19,19): warning C4101: ex: неиспользованная локальная переменная
+D:\С++\Laba6\task9\ex_9.cpp(20,17): warning C4101: exMinus: неиспользованная локальная переменная
+  task9.vcxproj -> D:\С++\Laba6\Debug\task9.exe

@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\С++\Laba6\static_libs\ststic_libs.h(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(17,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(33,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\С++\Laba6\static_libs\ststic_libs.h(124,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(131,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\С++\Laba6\static_libs\ststic_libs.h(163,18): warning C4018: <: несоответствие типов со знаком и без знака
+  sample-tests.vcxproj -> D:\С++\Laba6\Debug\sample-tests.exe
